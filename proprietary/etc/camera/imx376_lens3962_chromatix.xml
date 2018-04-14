@@ -95,6 +95,7 @@ special_mode_mask values:
       <A3Preview>imx376_fullsize_preview_3a_lens3962</A3Preview>
       <A3Video>imx376_fullsize_video_3a_lens3962</A3Video>
       <CPPCustom>imx376_cpp_snapshot_5m_multiframe</CPPCustom>
+      <CPPLess>imx376_cpp_snapshot_5m_multiframe_less</CPPLess>
     </ChromatixName>
     <ChromatixName sensor_resolution_index="1" special_mode_mask="0">
       <ISPPreview>imx376_snapshot</ISPPreview>
@@ -104,9 +105,14 @@ special_mode_mask values:
       <CPPSnapshot>imx376_cpp_snapshot_5m</CPPSnapshot>
       <CPPVideo>imx376_cpp_video</CPPVideo>
       <CPPLiveshot>imx376_cpp_liveshot</CPPLiveshot>
+      <CPPHdr>imx376_cpp_snapshot_5m_hdr</CPPHdr>
+      <CPPSkinFaceHDR>imx376_cpp_snapshot_5m_hdr_face</CPPSkinFaceHDR>
       <A3Preview>imx376_default_preview_3a_lens3962</A3Preview>
       <A3Video>imx376_default_video_3a_lens3962</A3Video>
       <CPPCustom>imx376_cpp_snapshot_5m_multiframe</CPPCustom>
+      <CPPLess>imx376_cpp_snapshot_5m_multiframe_less</CPPLess>
+      <CPPSingleFlash>imx376_cpp_snapshot_5m_flash</CPPSingleFlash>
+      <CPPMultiFlash>imx376_cpp_snapshot_5m_multiframe_fb</CPPMultiFlash>
     </ChromatixName>
     <ChromatixName sensor_resolution_index="0" special_mode_mask="OPPO_ENGINEER_MODE">
       <ISPPreview>imx376_snapshot_engineermode</ISPPreview>
@@ -131,6 +137,7 @@ special_mode_mask values:
       <A3Preview>imx376_fullsize_preview_3a_fb_lens3962</A3Preview>
       <A3Video>imx376_fullsize_video_3a_lens3962</A3Video>
       <CPPCustom>imx376_cpp_snapshot_5m_multiframe_fb</CPPCustom>
+      <CPPLess>imx376_cpp_snapshot_5m_multiframe_fb_less</CPPLess>
     </ChromatixName>
     <ChromatixName sensor_resolution_index="1" special_mode_mask="OPPO_FACE_BEAUTY">
       <ISPPreview>imx376_snapshot_fb</ISPPreview>
@@ -143,6 +150,9 @@ special_mode_mask values:
       <A3Preview>imx376_default_preview_3a_fb_lens3962</A3Preview>
       <A3Video>imx376_fullsize_video_3a_lens3962</A3Video>
       <CPPCustom>imx376_cpp_snapshot_5m_multiframe_fb</CPPCustom>
+      <CPPLess>imx376_cpp_snapshot_5m_multiframe_fb_less</CPPLess>
+      <CPPSingleFlash>imx376_cpp_snapshot_5m_flash</CPPSingleFlash>
+      <CPPMultiFlash>imx376_cpp_snapshot_5m_multiframe_fb</CPPMultiFlash>
     </ChromatixName>
     <ChromatixName sensor_resolution_index="1" special_mode_mask="OPPO_WECHAT">
       <ISPPreview>imx376_snapshot_wchat</ISPPreview>
@@ -179,6 +189,12 @@ special_mode_mask values:
       <CPPPreview>imx376_cpp_preview_1080p</CPPPreview>
       <CPPVideo>imx376_cpp_preview_1080p</CPPVideo>
       <CPPSnapshot>imx376_cpp_snapshot_5m_otherapk</CPPSnapshot>
+    </ChromatixName>
+    <ChromatixName sensor_resolution_index="1" special_mode_mask="OPPO_FACEUNLOCK">
+      <ISPCommon>imx376_common_faceunlock</ISPCommon>
+      <ISPPreview>imx376_preview_faceunlock</ISPPreview>
+      <A3Preview>imx376_default_preview_3a_faceunlock_lens3962</A3Preview>
+      <CPPPreview>imx376_cpp_preview_faceunlock_480p</CPPPreview>
     </ChromatixName>
   </ResolutionChromatixInfo>
 </ChromatixConfigurationRoot>

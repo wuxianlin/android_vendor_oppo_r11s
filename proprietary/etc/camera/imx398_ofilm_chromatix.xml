@@ -106,27 +106,66 @@ special_mode_mask values:
       <CPPLiveshot>imx398_zsl_snapshot_cpp</CPPLiveshot>
       <A3Preview>imx398_3a_zsl_preview_ofilm</A3Preview>
       <A3Video>imx398_3a_zsl_preview_ofilm</A3Video>
+      <CPPZoom>imx398_zsl_zoom_cpp_17021</CPPZoom>
+      <CPPPrvzoom>imx398_zoom_preview_cpp_17021</CPPPrvzoom>
+      <CPPMultiFlash>imx398_zsl_flash_cpp</CPPMultiFlash>
+      <CPPHdr>imx398_zsl_snapshot_cpp_hdr</CPPHdr>
+      <CPPSkinFaceHDR>imx398_zsl_snapshot_cpp_hdr_face</CPPSkinFaceHDR>
+    </ChromatixName>
+    <ChromatixName sensor_resolution_index="11" special_mode_mask="OPPO_PORTRAIT">
+      <ISPPreview>imx398_isp_zsl_snapshot_full_portrait</ISPPreview>
+      <ISPSnapshot>imx398_isp_zsl_snapshot_full_portrait</ISPSnapshot>
+      <ISPVideo>imx398_isp_zsl_snapshot_full_portrait</ISPVideo>
+      <CPPPreview>imx398_zsl_preview_cpp_full_portrait</CPPPreview>
+      <CPPSnapshot>imx398_zsl_snapshot_cpp_full_portrait</CPPSnapshot>
+      <CPPCustom>imx398_zsl_custom_cpp_full_portrait</CPPCustom>
+      <CPPFace>imx398_zsl_face_cpp_full_portrait</CPPFace>
+      <A3Preview>imx398_3a_zsl_preview_full_portrait_ofilm</A3Preview>
+      <A3Video>imx398_3a_zsl_preview_full_portrait_ofilm</A3Video>
+    </ChromatixName>
+    <ChromatixName sensor_resolution_index="11" special_mode_mask="0">
+      <ISPPreview>imx398_isp_zsl_snapshot_full_portrait</ISPPreview>
+      <ISPSnapshot>imx398_isp_zsl_snapshot_full_portrait</ISPSnapshot>
+      <ISPVideo>imx398_isp_zsl_snapshot</ISPVideo>
+      <CPPPreview>imx398_zsl_snapshot_cpp_full_portrait</CPPPreview>
+      <CPPSnapshot>imx398_zsl_snapshot_cpp_full_portrait</CPPSnapshot>
+      <CPPCustom>imx398_zsl_custom_cpp</CPPCustom>
+      <CPPFace>imx398_zsl_face_cpp</CPPFace>
+      <CPPLess>imx398_zsl_less_cpp</CPPLess>
+      <CPPVideo>imx398_zsl_preview_cpp</CPPVideo>
+      <CPPLiveshot>imx398_zsl_snapshot_cpp</CPPLiveshot>
+      <A3Preview>imx398_3a_zsl_preview_full_portrait_ofilm</A3Preview>
+      <A3Video>imx398_3a_zsl_preview_full_portrait_ofilm</A3Video>
       <CPPZoom>imx398_zsl_zoom_cpp</CPPZoom>
-	  <CPPPrvzoom>imx398_zoom_preview_cpp</CPPPrvzoom>
+      <CPPPrvzoom>imx398_zoom_preview_cpp</CPPPrvzoom>
       <CPPMultiFlash>imx398_zsl_flash_cpp</CPPMultiFlash>
     </ChromatixName>
+    <ChromatixName sensor_resolution_index="7" special_mode_mask="OPPO_PORTRAIT">
+      <ISPPreview>imx398_isp_snapshot_half_portrait</ISPPreview>
+      <ISPSnapshot>imx398_isp_snapshot_half_portrait</ISPSnapshot>
+      <ISPVideo>imx398_isp_snapshot_half_portrait</ISPVideo>
+      <CPPSnapshot>imx398_zsl_snapshot_cpp_half_portrait</CPPSnapshot>
+      <CPPCustom>imx398_zsl_custom_cpp_half_portrait</CPPCustom>
+      <A3Preview>imx398_3a_zsl_preview_half_portrait_ofilm</A3Preview>
+      <A3Video>imx398_3a_zsl_preview_half_portrait_ofilm</A3Video>
+    </ChromatixName>
     <ChromatixName sensor_resolution_index="0" special_mode_mask="OPPO_PROFESSIONAL">
-      <ISPPreview>imx398_isp_zsl_preview_professional</ISPPreview>
-      <ISPSnapshot>imx398_isp_zsl_snapshot_professional</ISPSnapshot>
+      <ISPPreview>imx398_isp_zsl_preview_professional_17021</ISPPreview>
+      <ISPSnapshot>imx398_isp_zsl_snapshot_professional_17021</ISPSnapshot>
       <CPPPreview>imx398_zsl_preview_professional_cpp</CPPPreview>
-      <CPPSnapshot>imx398_zsl_snapshot_professional_cpp</CPPSnapshot>
+      <CPPSnapshot>imx398_zsl_snapshot_professional_cpp_17021</CPPSnapshot>
       <A3Preview>imx398_3a_zsl_preview_professional_ofilm</A3Preview>
       <A3Video>imx398_3a_zsl_preview_professional_ofilm</A3Video>
     </ChromatixName>
-    <ChromatixName sensor_resolution_index="0" special_mode_mask="OPPO_PANORAMA">    
+    <ChromatixName sensor_resolution_index="0" special_mode_mask="OPPO_PANORAMA">
         <ISPPreview>imx398_isp_zsl_snapshot_panorama</ISPPreview>
         <ISPSnapshot>imx398_isp_zsl_snapshot_panorama</ISPSnapshot>
         <CPPPreview>imx398_zsl_preview_cpp_panorama</CPPPreview>
         <CPPSnapshot>imx398_zsl_snapshot_cpp_panorama</CPPSnapshot>
         <A3Preview>imx398_3a_zsl_preview_panorama_ofilm</A3Preview>
     </ChromatixName>
-    <ChromatixName sensor_resolution_index="0" special_mode_mask="OPPO_ENGINEER_MODE">    
-        <A3Preview>imx398_3a_zsl_preview_ofilm_engineer</A3Preview>    
+    <ChromatixName sensor_resolution_index="0" special_mode_mask="OPPO_ENGINEER_MODE">
+        <A3Preview>imx398_3a_zsl_preview_ofilm_engineer</A3Preview>
     </ChromatixName>
     <ChromatixName sensor_resolution_index="1" special_mode_mask="0">
       <ISPPreview>imx398_isp_4k_video</ISPPreview>

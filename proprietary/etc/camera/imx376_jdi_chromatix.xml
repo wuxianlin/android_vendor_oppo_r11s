@@ -180,5 +180,11 @@ special_mode_mask values:
       <CPPVideo>imx376_cpp_preview_1080p</CPPVideo>
       <CPPSnapshot>imx376_cpp_snapshot_5m_otherapk</CPPSnapshot>
     </ChromatixName>
+    <ChromatixName sensor_resolution_index="1" special_mode_mask="OPPO_FACEUNLOCK">
+      <ISPCommon>imx376_common_faceunlock</ISPCommon>
+      <ISPPreview>imx376_preview_faceunlock</ISPPreview>
+      <A3Preview>imx376_default_preview_3a_faceunlock_jdi</A3Preview>
+      <CPPPreview>imx376_cpp_preview_faceunlock_480p</CPPPreview>
+    </ChromatixName>
   </ResolutionChromatixInfo>
 </ChromatixConfigurationRoot>

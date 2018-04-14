@@ -97,10 +97,12 @@ LensInfo : Information of the lens present in the module.
     <SemcoActuatorName>lc898217xc_imx398</SemcoActuatorName>
     <ALPS961BActuatorName>dw9718s_imx398</ALPS961BActuatorName>
     <OfilmActuatorName>ak7374_imx398</OfilmActuatorName>
+    <QtechActuatorName>ak7374_imx398</QtechActuatorName>
     <FlashName>pmic</FlashName>
     <ChromatixName>imx398_chromatix</ChromatixName>
     <SemcoChromatixName>imx398_semco_chromatix</SemcoChromatixName>
     <OfilmChromatixName>imx398_ofilm_chromatix</OfilmChromatixName>
+    <QtechChromatixName>imx398_qtech_chromatix</QtechChromatixName>
     <ALPS961BChromatixName>imx398_alps961b_chromatix</ALPS961BChromatixName>
     <Rear2NamePath>/proc/rear2_sensor_id</Rear2NamePath>
     <EepromName>imx398_cat24c64</EepromName>
@@ -131,8 +133,10 @@ LensInfo : Information of the lens present in the module.
     <FlashName>pmic</FlashName>
     <ActuatorName>lc898217xc_s5k2p7sq</ActuatorName>
     <SunnyActuatorName>ak7374_s5k2p7sq</SunnyActuatorName>
+    <JHC8029B0ActuatorName>ak7374b0_s5k2p7sq</JHC8029B0ActuatorName>
     <ChromatixName>s5k2p7sq_chromatix</ChromatixName>
     <SunnyChromatixName>s5k2p7sq_sunny_chromatix</SunnyChromatixName>
+    <JHC8029B0ChromatixName>s5k2p7sq_ak7374b0_chromatix</JHC8029B0ChromatixName>
     <EepromName>s5k2p7sq_cat24c64</EepromName>
     <ModesSupported>1</ModesSupported>
     <Position>BACK</Position>
@@ -331,18 +335,21 @@ LensInfo : Information of the lens present in the module.
     <ALPSInfoPath>/proc/rear2_vcm_info</ALPSInfoPath>
     <FlashName>pmic</FlashName>
     <ChromatixName>imx376k_chromatix</ChromatixName>
+    <QtechChromatixName>imx376k_qtech_chromatix</QtechChromatixName>
     <SemcoChromatixName>imx376k_chromatix</SemcoChromatixName>
+    <OfilmChromatixName>imx376k_ofilm_chromatix</OfilmChromatixName>
     <ALPS961BChromatixName>imx376k_chromatix</ALPS961BChromatixName>
     <ActuatorName>lc898217xc_imx350</ActuatorName>
     <SunnyActuatorName>ak7374_imx376k</SunnyActuatorName>
     <SemcoActuatorName>lc898217xc_imx376k</SemcoActuatorName>
     <OfilmActuatorName>ak7374_imx376k</OfilmActuatorName>
     <ALPS961BActuatorName>dw9718s_imx350</ALPS961BActuatorName>
+    <QtechActuatorName>ak7374_imx376k</QtechActuatorName>
     <EepromName>imx350_gt24c64s</EepromName>
+    <QtechEepromName>imx350_cat24c64</QtechEepromName>
     <ModesSupported>1</ModesSupported>
     <Position>BACK_AUX</Position>
     <MountAngle>90</MountAngle>
-    <OfilmMountAngle>270</OfilmMountAngle>
     <CSIInfo>
       <CSIDCore>1</CSIDCore>
       <LaneMask>0x1f</LaneMask>
@@ -351,7 +358,7 @@ LensInfo : Information of the lens present in the module.
     </CSIInfo>
     <LensInfo>
       <FocalLength>5.47</FocalLength>
-      <FNumber>2.6</FNumber>
+      <FNumber>1.7</FNumber>
       <TotalFocusDistance>1.9</TotalFocusDistance>
       <HorizontalViewAngle>49.9</HorizontalViewAngle>
       <VerticalViewAngle>38.6</VerticalViewAngle>
@@ -390,7 +397,9 @@ LensInfo : Information of the lens present in the module.
     <Bokeconfig>OppoBokeh</Bokeconfig>
     <FlashName>pmic</FlashName>
     <ChromatixName>s5k2t7sm_chromatix</ChromatixName>
+    <JHC8029B0ChromatixName>s5k2t7sm_ak7374b0_chromatix</JHC8029B0ChromatixName>
     <ActuatorName>ak7374_s5k2t7sm</ActuatorName>
+    <JHC8029B0ActuatorName>ak7374b0_s5k2t7sm</JHC8029B0ActuatorName>
     <EepromName>imx350_cat24c64</EepromName>
     <ModesSupported>1</ModesSupported>
     <Position>BACK_AUX</Position>
@@ -403,7 +412,7 @@ LensInfo : Information of the lens present in the module.
     </CSIInfo>
     <LensInfo>
       <FocalLength>5.5</FocalLength>
-      <FNumber>2.6</FNumber>
+      <FNumber>1.7</FNumber>
       <TotalFocusDistance>1.9</TotalFocusDistance>
       <HorizontalViewAngle>49.5</HorizontalViewAngle>
       <VerticalViewAngle>38.5</VerticalViewAngle>
